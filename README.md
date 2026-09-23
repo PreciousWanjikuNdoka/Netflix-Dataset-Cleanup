@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Netflix Data Cleaning & Analysis Project
 
 An end-to-end Python data cleaning project that processes, cleans, and exports the raw Netflix movies and TV shows dataset for downstream analysis.
@@ -58,3 +59,6 @@ git clone [https://github.com/PreciousWanjikuNdoka/Netflix-Dataset-Cleanup.git](
 
 ### Processed Dataset (After Cleaning)
 ![Cleaned Netflix Data Sample](./After_cleaning.png)
+=======
+# Netflix-Dataset-Cleanup
+>>>>>>> main
